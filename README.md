@@ -6,4 +6,4 @@ Preparing for talk in machine learning class
 `talk.ipynb`
 
 **The Slide for Presentation:**
-`talk.ppt`
+`talk.pptx`
